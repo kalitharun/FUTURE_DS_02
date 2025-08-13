@@ -1,0 +1,123 @@
+Country	Region	Campaign	Media_Channel	Ad_Spend_Local	FX_Rate_to_USD	Revenue_Generated_USD
+Australia	Oceania	Spring2024	Radio	2533501.25	0.67	4516453.39
+Spain	Europe	Spring2024	Billboard	6859472.6	1.1	15223669
+South Africa	Africa	Spring2024	Radio	5415388.08	0.054	913934
+Italy	Europe	Spring2024	TV	7342666.13	1.1	11634311.83
+China	Asia	Spring2024	Radio	8522264.02	0.14	3299072.76
+Argentina	LATAM	Spring2024	TV	7460634.28	0.01	45032.23
+South Africa	Africa	Spring2024	Social Media	13596219.51	0.054	468038.15
+Brazil	LATAM	Spring2024	Billboard	1539185.36	0.19	739512.2
+Japan	Asia	Spring2024	Billboard	8251532.02	0.0064	44888.33
+India	Asia	Spring2024	TV	10503951.26	0.012	357301.82
+Australia	Oceania	Spring2024	YouTube	14486106.27	0.67	31625004.07
+Japan	Asia	Spring2024	YouTube	4667640.68	0.0064	25391.97
+Canada	North America	Spring2024	TV	14797898.02	0.75	42860767.59
+South Africa	Africa	Spring2024	Social Media	6657641.61	0.054	1339959.12
+Saudi Arabia	Middle East	Spring2024	TV	4177864.77	0.27	1595932.06
+France	Europe	Spring2024	YouTube	11248568.14	1.1	14908834.66
+Australia	Oceania	Spring2024	Influencer	5254079.36	0.67	2584136.74
+Germany	Europe	Spring2024	Billboard	10203046.03	1.1	18653708.99
+Australia	Oceania	Spring2024	Billboard	7704256.6	0.67	16577712.02
+Mexico	LATAM	Spring2024	Influencer	1109668.23	0.058	257443.04
+Saudi Arabia	Middle East	Spring2024	TV	11108262.39	0.27	5418147.14
+South Korea	Asia	Spring2024	Influencer	3453806.9	0.00072	9444.67
+Germany	Europe	Spring2024	Billboard	6150973.96	1.1	22425378.35
+USA	North America	Spring2024	Influencer	3249251.1	1	11936633.87
+Saudi Arabia	Middle East	Spring2024	Radio	9565178.01	0.27	5304952.84
+Germany	Europe	Spring2024	Radio	12554546.88	1.1	30116794.43
+Argentina	LATAM	Spring2024	YouTube	13824987.94	0.01	104952.51
+Italy	Europe	Spring2024	Influencer	5193902.1	1.1	11392703.35
+Brazil	LATAM	Spring2024	Billboard	1624573.34	0.19	1217385.34
+Italy	Europe	Spring2024	TV	6201876.92	1.1	26161703.74
+UK	Europe	Spring2024	YouTube	9229629.33	1.27	44081816.15
+Argentina	LATAM	Spring2024	TV	6482267.63	0.01	179635.1
+Argentina	LATAM	Spring2024	Social Media	8185228.79	0.01	116715.83
+India	Asia	Spring2024	Social Media	7649691.71	0.012	117520.01
+Nigeria	Africa	Spring2024	Billboard	8010614.64	0.0011	27737.85
+Saudi Arabia	Middle East	Spring2024	Influencer	12720768.09	0.27	4629044.94
+Italy	Europe	Spring2024	Social Media	9313516.6	1.1	34062663.14
+Mexico	LATAM	Spring2024	YouTube	14600273.1	0.058	3387263.36
+UAE	Middle East	Spring2024	Influencer	6239602.09	0.27	4076453.63
+UK	Europe	Spring2024	Social Media	12942601.19	1.27	29744744.15
+Egypt	Africa	Spring2024	TV	10821469.91	0.021	172940.43
+Canada	North America	Spring2024	Social Media	12742188.36	0.75	35074970.92
+Germany	Europe	Spring2024	YouTube	4994879.99	1.1	10602871.87
+Brazil	LATAM	Spring2024	YouTube	8885984.48	0.19	5205661.72
+China	Asia	Spring2024	YouTube	3756156.98	0.14	637757.49
+Australia	Oceania	Spring2024	YouTube	12718587.43	0.67	6258068.82
+China	Asia	Spring2024	Social Media	9436923.65	0.14	4499299.43
+South Africa	Africa	Spring2024	TV	4288279.96	0.054	217935.79
+Germany	Europe	Spring2024	Radio	13907926.25	1.1	26394795.23
+Germany	Europe	Spring2024	YouTube	1630693	1.1	1650845.27
+Canada	North America	Spring2024	YouTube	2606711.12	0.75	4203269.81
+South Africa	Africa	Spring2024	Social Media	11639477.17	0.054	1555032.79
+Canada	North America	Spring2024	Radio	2260691.95	0.75	1546356.86
+Australia	Oceania	Spring2024	Billboard	5306215.22	0.67	13276199.91
+USA	North America	Spring2024	Influencer	1203676.61	1	769301.58
+Australia	Oceania	Spring2024	Billboard	11067976.14	0.67	19066676.53
+South Korea	Asia	Spring2024	TV	1405676.02	0.00072	3768.94
+Australia	Oceania	Spring2024	TV	3430526.13	0.67	2319218.77
+Nigeria	Africa	Spring2024	YouTube	12820076.16	0.0011	33857.42
+Spain	Europe	Spring2024	YouTube	6368601.49	1.1	15301146.08
+Mexico	LATAM	Spring2024	Social Media	2101148.48	0.058	487466.44
+Italy	Europe	Spring2024	YouTube	14028118.76	1.1	12850953.88
+Germany	Europe	Spring2024	Influencer	12840388.94	1.1	52868821.95
+Nigeria	Africa	Spring2024	Billboard	13066085.96	0.0011	20886.71
+Mexico	LATAM	Spring2024	TV	6905440.1	0.058	160206.21
+India	Asia	Spring2024	TV	2085053.12	0.012	36301.6
+Italy	Europe	Spring2024	YouTube	8126391.5	1.1	26359852.34
+Italy	Europe	Spring2024	Influencer	3032366.51	1.1	4309788.7
+Australia	Oceania	Spring2024	Social Media	6096519.03	0.67	7606372.41
+Brazil	LATAM	Spring2024	Social Media	4552145.21	0.19	2950267.26
+Nigeria	Africa	Spring2024	TV	12575796.11	0.0011	44253.73
+China	Asia	Spring2024	Social Media	8646851.02	0.14	4803410.66
+Argentina	LATAM	Spring2024	YouTube	11926190.16	0.01	330507.31
+Japan	Asia	Spring2024	Social Media	11035170.11	0.0064	59881.33
+Argentina	LATAM	Spring2024	TV	8362690.47	0.01	124700.69
+Brazil	LATAM	Spring2024	Social Media	2095766.52	0.19	313637.92
+India	Asia	Spring2024	Social Media	7241724.26	0.012	133221.6
+India	Asia	Spring2024	Billboard	4297935.54	0.012	166029.88
+Australia	Oceania	Spring2024	Radio	5947230.3	0.67	6266105.74
+Egypt	Africa	Spring2024	Radio	6405716.55	0.021	198771.84
+UK	Europe	Spring2024	YouTube	4448534.01	1.27	12052492.02
+Saudi Arabia	Middle East	Spring2024	TV	6795897.24	0.27	7314551.14
+Brazil	LATAM	Spring2024	Billboard	5545818.01	0.19	2572415.07
+South Africa	Africa	Spring2024	TV	13869322.43	0.054	1199892.56
+Argentina	LATAM	Spring2024	YouTube	9447353.35	0.01	189338.62
+Nigeria	Africa	Spring2024	Influencer	4482827.3	0.0011	18534.12
+Canada	North America	Spring2024	YouTube	10403902.99	0.75	26635011.46
+South Korea	Asia	Spring2024	Influencer	12946583.72	0.00072	11034
+Japan	Asia	Spring2024	Social Media	5493461.78	0.0064	29884.44
+Argentina	LATAM	Spring2024	YouTube	12425438.45	0.01	141963.69
+USA	North America	Spring2024	YouTube	11577553.49	1	15571400.29
+Australia	Oceania	Spring2024	TV	1277497.06	0.67	2363049.71
+Australia	Oceania	Spring2024	Billboard	11713932.98	0.67	4991573.38
+Italy	Europe	Spring2024	Influencer	3472248.13	1.1	12430382.28
+Egypt	Africa	Spring2024	Influencer	2470706.5	0.021	129360.6
+Argentina	LATAM	Spring2024	Radio	11709269.3	0.01	94444.92
+Brazil	LATAM	Spring2024	YouTube	10711634.48	0.19	1770051.41
+Japan	Asia	Spring2024	Influencer	1020725.35	0.0064	5547.74
+Egypt	Africa	Spring2024	Radio	1547309.81	0.021	122181.94
+Canada	North America	Spring2024	Radio	8942846.15	0.75	14899053.2
+UK	Europe	Spring2024	YouTube	7684912.91	1.27	12417183.36
+Japan	Asia	Spring2024	YouTube	11838998.69	0.0064	64354.15
+Argentina	LATAM	Spring2024	Influencer	6530431.52	0.01	177801.57
+Germany	Europe	Spring2024	YouTube	13299238.62	1.1	23685018.06
+South Korea	Asia	Spring2024	Radio	3892918.4	0.00072	10046.78
+USA	North America	Spring2024	Billboard	13445372.94	1	43989387.43
+South Africa	Africa	Spring2024	Radio	13367115.67	0.054	1311908.96
+Germany	Europe	Spring2024	Social Media	8702293.69	1.1	17851979.24
+India	Asia	Spring2024	Radio	3762708.87	0.012	162089.46
+Nigeria	Africa	Spring2024	TV	5412843.93	0.0011	21429.51
+USA	North America	Spring2024	Radio	10351265.34	1	35748522.17
+Egypt	Africa	Spring2024	YouTube	11274576.74	0.021	657594.57
+China	Asia	Spring2024	Billboard	3372642.36	0.14	1183460.97
+Nigeria	Africa	Spring2024	TV	7250900.12	0.0011	29462.37
+UAE	Middle East	Spring2024	Radio	12357718.59	0.27	6121442.82
+USA	North America	Spring2024	YouTube	8329276.69	1	25670713.73
+Nigeria	Africa	Spring2024	TV	12643615.17	0.0011	50485.81
+Saudi Arabia	Middle East	Spring2024	YouTube	5673597.64	0.27	4622562.74
+South Africa	Africa	Spring2024	Billboard	3791205.22	0.054	369384.9
+Egypt	Africa	Spring2024	TV	5464886.53	0.021	271130.75
+Italy	Europe	Spring2024	Social Media	9286608.42	1.1	15195947.14
+USA	North America	Spring2024	Radio	6325495.97	1	21694489.55
